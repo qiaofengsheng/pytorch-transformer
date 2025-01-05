@@ -1,0 +1,9 @@
+{
+  "decoder_start_token_id": 0,
+  "eos_token_id": 1,
+  "pad_token_id": 0,
+  "max_new_tokens": 1024,
+  "repetition_penalty": 5.0,
+  "num_beams": 5,
+  "transformers_version": "4.33.0"
+}
